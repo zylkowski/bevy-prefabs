@@ -1,0 +1,13 @@
+[package]
+name = "bevy-prefabs"
+version = "0.1.0"
+authors = ["zylkowski <arkadiuszzylkowski@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+bevy = "0.5.0"
+bevy-prefabs-derive = {version = "0.1.0", path = "src/bevy-prefabs-derive" }
+anyhow = "1.0.40"
+typetag = "0.1.7"
+serde = "1.0.125"
+serde_yaml = "0.8.17"
