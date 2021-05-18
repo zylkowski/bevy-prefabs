@@ -1,0 +1,5 @@
+---
+_prefab: WeaponAdapter
+min_damage: 1
+max_damage: 5
+range: 3

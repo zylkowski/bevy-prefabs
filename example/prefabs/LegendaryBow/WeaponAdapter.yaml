@@ -1,0 +1,5 @@
+---
+_prefab: WeaponAdapter
+min_damage: 420
+max_damage: 690
+range: 2137

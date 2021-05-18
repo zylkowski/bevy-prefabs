@@ -1,0 +1,16 @@
+[package]
+name = "example"
+version = "0.1.0"
+authors = ["zylkowski <arkadiuszzylkowski@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bevy = "0.5.0"
+bevy-prefabs = { version="0.1.0", path = ".."}
+rand = "*"
+serde = "1.0.125"
+typetag = "0.1.7"
+ron = "*"
+serde_yaml = "*"
